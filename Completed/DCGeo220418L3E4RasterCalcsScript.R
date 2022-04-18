@@ -51,7 +51,7 @@ ggplot() +
   scale_fill_gradientn(name = "Canopy Height", colors = terrain.colors(10)) + 
   coord_quickmap()
 
-#Export a GeoTIFF to the results folder in your working directory
+#Export a GeoTIFF to the results folder in your working directory (you may need to create the results folder first)
 writeRaster(CHM_ov_HARV, filename = file.path("results", "CHM_HARV.tiff"),
             format="GTiff",
             overwrite=TRUE,

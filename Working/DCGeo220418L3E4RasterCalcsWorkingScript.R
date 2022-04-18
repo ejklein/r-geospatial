@@ -31,4 +31,4 @@
 #Plot
 
 
-#Export a GeoTIFF to the results folder in your working directory
+#Export a GeoTIFF to the results folder in your working directory (you may need to create the results folder first)
