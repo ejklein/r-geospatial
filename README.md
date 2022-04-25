@@ -1,6 +1,8 @@
 This repository contains the scripts we'll be using for the Geospatial Workshop Part 3: Introduction to Geospatial Raster and Vector Data with R, on April 19th, 2022. 
 
-### Folders
+### R Scripts
+The following folders inside the src folder contain the r scripts we'll be using. The results folder contains image output and other results.
+
 #### Completed
 The Completed folder contains completed scripts used during the lesson's episodes for reference by the instructor and learners. Note that some of the code has been changed from the original content for the [Introduction to Geospatial Raster and Vector Data](https://datacarpentry.org/r-raster-vector-geospatial/) lesson.
 
